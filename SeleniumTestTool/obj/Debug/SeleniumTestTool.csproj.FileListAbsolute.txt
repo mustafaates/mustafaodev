@@ -1,0 +1,8 @@
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\bin\Debug\SeleniumTestTool.exe.config
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\bin\Debug\SeleniumTestTool.exe
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\bin\Debug\SeleniumTestTool.pdb
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\bin\Debug\WebDriver.dll
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\bin\Debug\WebDriver.xml
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.exe
+C:\Users\mustafa\Desktop\ödev\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.pdb
